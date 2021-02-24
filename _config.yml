@@ -59,7 +59,7 @@ author:
   name   : "1hne"
   avatar   : "/assets/images/cloud.png"
   bio      : "i practice what i post"
-  location : "Finland"
+  location : "/assets/images/finflag.png"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
