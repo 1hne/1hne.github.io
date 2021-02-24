@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "1hne"
+  name   : "ihne"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
