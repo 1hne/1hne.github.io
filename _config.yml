@@ -57,8 +57,6 @@ plugins:
 
 author:
   name   : "1hne"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Observer of onism paradox"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
