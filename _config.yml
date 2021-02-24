@@ -13,11 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: fever_dreams
+title: somn not so cool
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  somn not so cool
 github_username: 1hne
 minimal_mistakes_skin: "contrast"
 search: true
@@ -58,7 +56,7 @@ plugins:
 author:
   name   : "1hne"
   avatar   : "/assets/images/cloud.png"
-  bio      : "if observe, +post"
+  bio      : "study 2 post"
   location : "Finland"
   links:
     - label: "GitHub"
