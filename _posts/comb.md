@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "comb"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
